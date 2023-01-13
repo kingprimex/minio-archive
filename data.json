@@ -1,0 +1,7 @@
+{
+  "bucket": "meema", 
+  "path": ["codrutp/folder1/file.pdf","codrutp/folder1/cerinte.docx"],
+  "file_name": ["cerere.pdf","cerinte.docx"],
+  "archive_name" : "archive02",
+  "total_number_of_files": "2"
+}
